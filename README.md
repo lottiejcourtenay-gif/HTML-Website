@@ -50,7 +50,6 @@
   <section>
     <h3>Education</h3>
     <p>Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized 30 sessions.<br>
-      
       Courses I took:
       <ul>
       <li> Object Oriented Programming</li>
